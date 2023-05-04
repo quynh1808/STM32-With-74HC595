@@ -36,7 +36,7 @@ Here are some pictures of the configuration steps for the STM342F103Cx, you can 
 * Select MDK_ARM and generate code.
 ![mk_arm](https://user-images.githubusercontent.com/131508098/236132506-eafabb17-536a-408d-9ec6-1d610bd2a354.jpg)
 
-Proteus Simulation.
+* Proteus Simulation.
 ![simu](https://user-images.githubusercontent.com/131508098/236132598-5ee9a6f9-e6d9-4dd6-8ca1-5229b24a40b9.jpg)
 
 # Feedback
