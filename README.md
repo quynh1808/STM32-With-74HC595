@@ -39,6 +39,10 @@ Here are some pictures of the configuration steps for the STM342F103Cx, you can 
 * Proteus Simulation.
 ![simu](https://user-images.githubusercontent.com/131508098/236132598-5ee9a6f9-e6d9-4dd6-8ca1-5229b24a40b9.jpg)
 
+* Proteus Running.
+![example](https://user-images.githubusercontent.com/131508098/236132991-52daaf3c-c20b-4552-bac2-098f1dbb97ba.jpg)
+
+
 # Feedback
 If you have any contribution to improve the project, please contact me by email: quynh.nm1808@gmail.com
 
