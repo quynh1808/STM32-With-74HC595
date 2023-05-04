@@ -16,7 +16,7 @@ First, I created an LEDCODE array of numbers 0-9 written in hexadecimal, along w
 
 Second, I created a function CLK to clock and Led_Display to display numbers on each led-7-seg.
 
-Finally, I create a function Print_Number to print the input number to 8 led-7-seg.
+Finally, I created a function Print_Number to print the input number to 8 led-7-seg.
 * If it is a negative number, the led will show a minus sign.
 * If less than 8 numbers are displayed, the remaining led-7-seg will turn off.
 
